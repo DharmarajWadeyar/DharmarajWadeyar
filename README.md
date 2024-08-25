@@ -2,7 +2,7 @@
 
 ### About Me
 - 🚀 Passionate about **Developing Software** and **Transforming Ideas into Scalable Solutions**.
-- 🌱 Currently diving deep into **Full Stack Java** and **Frontend Development**.
+- 🌱 Currently diving deep into **Full Stack Java**, **Frontend Development**, and **Cloud DevOps**.
 - 💡 Always eager to learn and explore new technologies.
 
 ### Interests
@@ -10,6 +10,8 @@
 - 🌐 Open Source Contributions
 - 📱 Mobile App Development
 - 🎨 UI/UX Design
+- 🌟 Building **Java Web Applications** and **Websites**
+- ☁️ Cloud DevOps and **AWS**
 
 ### Let's Collaborate
 - 🤝 Looking to collaborate on exciting **Open Source Projects**.
