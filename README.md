@@ -2,7 +2,7 @@
 
 ### About Me
 - 🚀 Passionate about **Developing Softwares** and **Transforming Ideas into Scalable Solutions**.
-- 🌱 Currently diving deep into **Full Stack Software Engineer**, **Frontend Development**, & **Cloud & DevOps**.
+- 🌱 Currently diving deep into **Full Stack Software Engineer**, **Frontend Development**, , **Cloud & DevOps**.
 - 💡 Always eager to learn and explore new technologies.
 
 ### Interests
