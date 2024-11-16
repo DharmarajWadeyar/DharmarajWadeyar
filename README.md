@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Dharmaraj Wadeyar!
 
 ### About Me
-- 🚀 Passionate about **Developing Software** and **Transforming Ideas into Scalable Solutions**.
-- 🌱 Currently diving deep into **Full Stack Java**, **Frontend Development**, and **Cloud DevOps**.
+- 🚀 Passionate about **Developing Softwares** and **Transforming Ideas into Scalable Solutions**.
+- 🌱 Currently diving deep into **Full Stack Software Engineer**, **Frontend Development**, & **Cloud & DevOps**.
 - 💡 Always eager to learn and explore new technologies.
 
 ### Interests
@@ -10,8 +10,8 @@
 - 🌐 Open Source Contributions
 - 📱 Mobile App Development
 - 🎨 UI/UX Design
-- 🌟 Building **Java Web Applications** and **Websites**
-- ☁️ Cloud DevOps and **AWS**
+- 🌟 Building **Backend Web Applications** & **Websites**
+- ☁️ **Cloud & DevOps**
 
 ### Let's Collaborate
 - 🤝 Looking to collaborate on exciting **Open Source Projects**.
