@@ -68,7 +68,9 @@
 
 ### 📊 Live GitHub Info
 
-[Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DharmarajWadeyar&query=public_repos&label=Public%20Repos&color=blue&logo=github)
-[Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DharmarajWadeyar&query=followers&label=Followers&color=green&logo=github)
-[Total Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:DharmarajWadeyar&query=total_count&label=Total%20Commits&color=orange&logo=github)
-[Last Commit](https://img.shields.io/github/last-commit/DharmarajWadeyar/DharmarajWadeyar?logo=github)
+### 📊 Live 【entity-GitHub¦canonical_name=GitHub】 Info
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDharmarajWadeyar&query=public_repos&label=Public%20Repos&color=blue&logo=github)
+![Followers](https://img.shields.io/github/followers/DharmarajWadeyar?style=for-the-badge&logo=github)
+![Commits Last Year](https://img.shields.io/github/commit-activity/y/DharmarajWadeyar/DharmarajWadeyar?style=for-the-badge&logo=github&label=Commits)
+![Last Commit](https://img.shields.io/github/last-commit/DharmarajWadeyar/DharmarajWadeyar?style=for-the-badge&logo=github)
