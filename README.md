@@ -68,8 +68,6 @@
 
 ### 📊 Live GitHub Info
 
-### 📊 Live 【entity-GitHub¦canonical_name=GitHub】 Info
-
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDharmarajWadeyar&query=public_repos&label=Public%20Repos&color=blue&logo=github)
 ![Followers](https://img.shields.io/github/followers/DharmarajWadeyar?style=for-the-badge&logo=github)
 ![Commits Last Year](https://img.shields.io/github/commit-activity/y/DharmarajWadeyar/DharmarajWadeyar?style=for-the-badge&logo=github&label=Commits)
