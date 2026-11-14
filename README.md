@@ -64,3 +64,11 @@
 | --- | --- | --- |
 | MSc Computer Science | S. K. Somaiya College, Mumbai Vidyavihar | 2021 - 2023 |
 | BSc Computer Science | V.P.M.'s B.N. Bandodkar College of Science, Thane | 2018 - 2021 |
+
+
+### 📊 Live GitHub Info
+
+[Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DharmarajWadeyar&query=public_repos&label=Public%20Repos&color=blue&logo=github)
+[Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DharmarajWadeyar&query=followers&label=Followers&color=green&logo=github)
+[Total Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:DharmarajWadeyar&query=total_count&label=Total%20Commits&color=orange&logo=github)
+[Last Commit](https://img.shields.io/github/last-commit/DharmarajWadeyar/DharmarajWadeyar?logo=github)
