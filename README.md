@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Dharmaraj Sharanappa Wadeyar
 
-### Cloud Support Engineer | 【entity-AWS¦canonical_name=AWS】 | Windows Server | Linux | Networking
+### Cloud Support Engineer | AWS | Windows Server | Linux | Networking
 
 ---
 
