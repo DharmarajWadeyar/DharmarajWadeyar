@@ -50,6 +50,6 @@
 
 ### 📊 Github Stats
 
-![Dharmaraj's stats](https://github-readme-stats.vercel.app/api?username=DharmarajWadeyar&show_icons=true&theme=radical&cache_seconds=1800)
+!Dharmaraj's stats](https://github-readme-stats.vercel.app/api?username=DharmarajWadeyar&show_icons=true&theme=radical&cache_seconds=1800)
 
-![【entity-GitHub¦canonical_name=GitHub】 Streak](https://streak-stats.demolab.com?user=DharmarajWadeyar&theme=radical)
+!Github Streak](https://streak-stats.demolab.com?user=DharmarajWadeyar&theme=radical)
