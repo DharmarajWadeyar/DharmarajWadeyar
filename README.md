@@ -68,7 +68,7 @@
 
 ### 📊 Live GitHub Info
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDharmarajWadeyar&query=public_repos&label=Public%20Repos&color=blue&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDharmarajWadeyar&query=public_repos&label=Public%20Repos&color=blue&logo=github&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/DharmarajWadeyar?style=for-the-badge&logo=github)
 ![Commits Last Year](https://img.shields.io/github/commit-activity/y/DharmarajWadeyar/DharmarajWadeyar?style=for-the-badge&logo=github&label=Commits)
 ![Last Commit](https://img.shields.io/github/last-commit/DharmarajWadeyar/DharmarajWadeyar?style=for-the-badge&logo=github)
