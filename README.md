@@ -1,14 +1,14 @@
-![Profile views](https://komarev.com/ghpvc/?username=dharmarajwadeyar)
+[Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharmaraj+Sharanappa+Wadeyar;Cloud+Support+Engineer;【entity-AWS¦canonical_name=AWS】+%7C+Windows+Server+%7C+Linux+%7C+Networking)
 
-![Cloud Banner](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1000&q=80)
+[Profile views](https://komarev.com/ghpvc/?username=dharmarajwadeyar)
 
-# Hi 👋, I'm Dharmaraj Sharanappa Wadeyar
+[Cloud Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### Cloud Support Engineer | 【entity-AWS¦canonical_name=AWS】 | Windows Server | Linux | Networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_LINK_HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DharmarajWadeyar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dharmarajwadeyar.github.io/)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_LINK_HERE)
+[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DharmarajWadeyar@gmail.com)
+[[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dharmarajwadeyar.github.io/)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### Tech Stack
 
-![Tools](https://skillicons.dev/icons?i=aws,linux,windows,html,css,js)
+[Tools](https://skillicons.dev/icons?i=aws,linux,windows,html,css,js)
 
 **Skills:** AWS (EC2, VPC) | Windows Server | Linux | Networking | Jira | HTML | CSS | JavaScript
 
@@ -47,6 +47,6 @@
 
 ### 📊 GitHub Stats
 
-![Dharmaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharmarajWadeyar&show_icons=true&theme=radical)
+[Dharmaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharmarajWadeyar&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DharmarajWadeyar&theme=radical)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DharmarajWadeyar&theme=radical)
