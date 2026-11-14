@@ -19,7 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,windows,git,github,vscode,html,css,js)](https://skillicons.dev)
 
-**Cloud & Infra:** 【entity-AWS¦canonical_name=AWS】 (EC2, VPC, S3, IAM) | Windows Server | Active Directory | DNS | DHCP | GPO
+**Cloud & Infra:** AWS (EC2, VPC, S3, IAM) | Windows Server | Active Directory | DNS | DHCP | GPO
 **OS & Networking:** Linux | Windows | Networking | Troubleshooting
 **Tools:** Jira | Ticketing | Git | GitHub
 
