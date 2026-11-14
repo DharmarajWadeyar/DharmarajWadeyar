@@ -48,8 +48,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Github Stats
 
-![Dharmaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharmarajWadeyar&show_icons=true&theme=radical)
+![Dharmaraj's 【entity-GitHub¦canonical_name=GitHub】 stats](https://github-readme-stats.vercel.app/api?username=DharmarajWadeyar&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DharmarajWadeyar&theme=radical)
+![【entity-GitHub¦canonical_name=GitHub】 Streak](https://streak-stats.demolab.com?user=DharmarajWadeyar&theme=radical)
