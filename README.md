@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharmaraj+Sharanappa+Wadeyar;Cloud+Support+Engineer;AWS+%7C+Windows+Server+%7C+Linux+%7C+Networking)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharmaraj+Sharanappa+Wadeyar;Cloud+Support+Engineer; 【entity-AWS¦canonical_name=AWS】+%7C+Windows+Server+%7C+Linux+%7C+Networking)
 
 ![Profile views](https://komarev.com/ghpvc/?username=dharmarajwadeyar)
 
@@ -6,12 +6,23 @@
 
 # Dharmaraj Sharanappa Wadeyar
 
-### Cloud Support Engineer | AWS | Windows Server | Linux | Networking
+### Cloud Support Engineer | 【entity-AWS¦canonical_name=AWS】 | Windows Server | Linux | Networking
 ### 📍 Thane, Maharashtra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmaraj-wadeyar-29a6652bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmarajwadeyar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dharmarajwadeyar.github.io/)
+
+---
+
+### 🎯 Open To Work
+
+![Cloud Support](https://img.shields.io/badge/Cloud_Support-00BFFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NOC](https://img.shields.io/badge/NOC-2E8B57?style=for-the-badge&logo=datadog&logoColor=white)
+![Windows Admin](https://img.shields.io/badge/Windows_Admin-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Admin](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Available Immediately** | Immediate Joiner
 
 ---
 
@@ -31,6 +42,14 @@
 
 ---
 
+### 🚀 Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| Portfolio Website | Personal portfolio website hosted on GitHub Pages | [View](https://dharmarajwadeyar.github.io/) |
+
+---
+
 ### Experience
 
 | Role | Company | Period |
@@ -45,7 +64,3 @@
 | --- | --- | --- |
 | MSc Computer Science | S. K. Somaiya College, Mumbai Vidyavihar | 2021 - 2023 |
 | BSc Computer Science | V.P.M.'s B.N. Bandodkar College of Science, Thane | 2018 - 2021 |
-
----
-
-
