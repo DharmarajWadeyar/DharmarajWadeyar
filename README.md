@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharmaraj+Sharanappa+Wadeyar;Cloud+Support+Engineer; 【entity-AWS¦canonical_name=AWS】+%7C+Windows+Server+%7C+Linux+%7C+Networking)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharmaraj+Sharanappa+Wadeyar;Cloud+Support+Engineer;AWS+%7C+Windows+Server+%7C+Linux+%7C+Networking)
 
 ![Profile views](https://komarev.com/ghpvc/?username=dharmarajwadeyar)
 
@@ -6,7 +6,7 @@
 
 # Dharmaraj Sharanappa Wadeyar
 
-### Cloud Support Engineer | 【entity-AWS¦canonical_name=AWS】 | Windows Server | Linux | Networking
+### Cloud Support Engineer | AWS | Windows Server | Linux | Networking
 ### 📍 Thane, Maharashtra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmaraj-wadeyar-29a6652bb/)
