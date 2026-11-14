@@ -72,3 +72,6 @@
 ![Followers](https://img.shields.io/github/followers/DharmarajWadeyar?style=for-the-badge&logo=github)
 ![Commits Last Year](https://img.shields.io/github/commit-activity/y/DharmarajWadeyar/DharmarajWadeyar?style=for-the-badge&logo=github&label=Commits)
 ![Last Commit](https://img.shields.io/github/last-commit/DharmarajWadeyar/DharmarajWadeyar?style=for-the-badge&logo=github)
+
+---
+© 2026 Dharmaraj Sharanappa Wadeyar - All Rights Reserved. Please do not copy this profile design without permission.
