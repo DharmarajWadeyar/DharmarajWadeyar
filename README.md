@@ -29,7 +29,7 @@
 ### About Me
 
 - Training: **Cloud Computing with AWS**, Insys Technologies, Thane (West), Apr 2026 - Oct 2026
-- Experience: **1.1 years as Software Developer (Application Support)**
+- Experience: **1.1 years as Software Developer**
 - Email: **dharmarajwadeyar@gmail.com**
 
 ---
